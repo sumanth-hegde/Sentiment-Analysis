@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis using graphlab in jypyter notebook.
+Sentiment Analysis using graphlab in jupyter notebook.
